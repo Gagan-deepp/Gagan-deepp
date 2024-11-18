@@ -45,19 +45,19 @@
 
 <div align="center">
   <a href="https://github.com/Gagan-deepp/AnimeValley">
-    <img src="https://via.placeholder.com/400x200?text=Project+1" alt="Project 1" width="400" />
+    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
   </a>
-    <p><strong><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></strong></p>
+    <h3><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></p>
 
   <a href="https://github.com/Gagan-deepp/ecommerce">
-    <img src="https://via.placeholder.com/400x200?text=Project+1" alt="Project 1" width="400" />
+    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
   </a>
-  <p><strong><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></strong></p>
+  <h3><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></h3>
   
   <a href="https://github.com/Gagan-deepp/Learn-Space">
-    <img src="https://via.placeholder.com/400x200?text=Project+1" alt="Project 1" width="400" />
+    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
   </a>
-  <p><strong><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></strong></p>
+  <h3><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></h3>
 </div>
 
 ---
