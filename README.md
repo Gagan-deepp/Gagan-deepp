@@ -45,14 +45,19 @@
 
 <div align="center">
   <a href="https://github.com/Gagan-deepp/AnimeValley">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan-deepp&repo=project1&theme=tokyonight" alt="Project 1" />
+    <img src="https://github.com/Gagan-deepp/AnimeValley/blob/main/public/banner/bg-final.jpg" alt="Project 1" />
   </a>
+    <p><strong><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></strong></p>
+
   <a href="https://github.com/Gagan-deepp/ecommerce">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan-deepp&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
+  <p><strong><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></strong></p>
+  
   <a href="https://github.com/Gagan-deepp/Learn-Space">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan-deepp&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
+  <p><strong><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></strong></p>
 </div>
 
 ---
