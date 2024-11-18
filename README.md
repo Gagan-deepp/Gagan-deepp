@@ -20,21 +20,21 @@
 
   <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
     <a href="https://github.com/Gagan-deepp/AnimeValley">
-      <img src="https://img.icons8.com/ios-filled/50/1F9DFF/point.png" alt="Point Icon" width="30" />
+      🌟
     </a>
      <h3><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></p>
   </div>
        
   <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
      <a href="https://github.com/Gagan-deepp/ecommerce">
-      <img src="https://img.icons8.com/ios-filled/50/1F9DFF/point.png" alt="Point Icon" width="30" />
+      🌟
     </a>
     <h3><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></h3>
   </div>
        
   <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
    <a href="https://github.com/Gagan-deepp/Learn-Space">
-      <img src="https://img.icons8.com/ios-filled/50/1F9DFF/point.png" alt="Point Icon" width="30" />
+      🌟
     </a>
        <h3><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></h3>
   </div>
