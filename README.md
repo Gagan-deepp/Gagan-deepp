@@ -18,7 +18,7 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
 
-  <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
+  <div style="display: flex; flex-direction:row; align-items: center; text-align: center; max-width: 300px;">
     <a href="https://github.com/Gagan-deepp/AnimeValley">
       🌟
     </a>
