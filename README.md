@@ -19,24 +19,15 @@
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
 
   <div style="display: flex; flex-direction:row; align-items: center; text-align: center; max-width: 300px;">
-    <a href="https://github.com/Gagan-deepp/AnimeValley">
-      🌟
-    </a>
-     <h3><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></p>
+     <h3><a href="https://github.com/Gagan-deepp/AnimeValley"> 🌟 Anime Valley</a></p>
   </div>
        
   <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
-     <a href="https://github.com/Gagan-deepp/ecommerce">
-      🌟
-    </a>
-    <h3><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></h3>
+    <h3><a href="https://github.com/Gagan-deepp/ecommerce"> 🌟 Ecommerce</a></h3>
   </div>
        
   <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
-   <a href="https://github.com/Gagan-deepp/Learn-Space">
-      🌟
-    </a>
-       <h3><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></h3>
+       <h3><a href="https://github.com/Gagan-deepp/Learn-Space"> 🌟 Learn Space</a></h3>
   </div>
 </div>
 
