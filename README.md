@@ -14,6 +14,32 @@
 
 ---
 
+## 🌟 **Featured Projects**
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <div>
+  <a href="https://github.com/Gagan-deepp/AnimeValley">
+    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
+  </a>
+    <h3><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></p>
+    </div>
+
+<div>
+  <a href="https://github.com/Gagan-deepp/ecommerce">
+    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
+  </a>
+  <h3><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></h3>
+  </div>
+
+  <div> 
+  <a href="https://github.com/Gagan-deepp/Learn-Space">
+    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
+  </a>
+  <h3><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></h3>
+    </div>
+</div>
+
+---
 ## 🛠️ **Tech Stack**
 
 <div align="center">
@@ -41,26 +67,7 @@
 
 ---
 
-## 🌟 **Featured Projects**
 
-<div align="center">
-  <a href="https://github.com/Gagan-deepp/AnimeValley">
-    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
-  </a>
-    <h3><a href="https://github.com/Gagan-deepp/AnimeValley">Anime Valley</a></p>
-
-  <a href="https://github.com/Gagan-deepp/ecommerce">
-    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
-  </a>
-  <h3><a href="https://github.com/Gagan-deepp/ecommerce">Ecommerce</a></h3>
-  
-  <a href="https://github.com/Gagan-deepp/Learn-Space">
-    <img src="https://img.icons8.com/fluency/96/000000/star.png" alt="Project 1" width="100" />
-  </a>
-  <h3><a href="https://github.com/Gagan-deepp/Learn-Space">Learn Space</a></h3>
-</div>
-
----
 
 ## 🖼️ **Fun Corner**
 <img align="right" src="https://github.com/yourusername/yourusername/assets/your-gif.gif" width="150px" />
