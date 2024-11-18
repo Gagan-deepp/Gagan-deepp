@@ -1,12 +1,8 @@
 <!-- Banner -->
 ![Banner](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)
 
-# 👋 Hi there! I'm **[Your Name]**  
+# 👋 Hi there! I'm **Gagandeep Singh**  
 #### *"Code, Create, Conquer."*
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F9DFF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -31,15 +27,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" alt="Streak Stats" />
-</div>
-
----
-
 ## 🌐 **Connect with Me**
 
 <div align="center">
@@ -58,13 +45,13 @@
 
 <div align="center">
   <a href="https://github.com/Gagan-deepp/AnimeValley">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan-deepp&repo=project1&theme=tokyonight" alt="Project 1" />
   </a>
   <a href="https://github.com/Gagan-deepp/ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan-deepp&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
   <a href="https://github.com/Gagan-deepp/Learn-Space">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan-deepp&repo=project2&theme=tokyonight" alt="Project 2" />
   </a>
 </div>
 
