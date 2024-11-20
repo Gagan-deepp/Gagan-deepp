@@ -9,7 +9,7 @@
 ## 🚀 **About Me**
 - 🌱 I’m currently exploring **MERN Stack and DSA**  
 - 👨‍💻 Most of my projects are focused on solving **real-world problems**  
-- 🎯 Goal: To contribute to impactful **open-source projects**  
+- 🎯 Goal: To contribute to impactful **projects**  
 - ✨ Fun fact: I'm a big fan of **anime** and love problem-solving challenges!  
 
 ---
