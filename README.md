@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)
+
 
 # 👋 Hi there! I'm **Gagandeep Singh**  
 #### *"Code, Create, Conquer."*
