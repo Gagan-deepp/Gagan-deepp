@@ -1,19 +1,19 @@
 
 
-# 👋 Hi there! I'm **Gagandeep Singh**  
+# Hi there! I'm **Gagandeep Singh**  
 #### *"Code, Create, Conquer."*
 
 ---
 
-## 🚀 **About Me**
-- 🌱 I’m currently exploring **MERN Stack and DSA**  
-- 👨‍💻 Most of my projects are focused on solving **real-world problems**  
-- 🎯 Goal: To contribute to impactful **projects**  
-- ✨ Fun fact: I'm a big fan of **anime** and love problem-solving challenges!  
+## **About Me**
+- I’m currently exploring **MERN Stack and DSA**  
+- Most of my projects are focused on solving **real-world problems**  
+- Goal: To contribute to impactful **projects**  
+- Fun fact: I'm a big fan of **anime** and love problem-solving challenges!  
 
 ---
 
-## 🌟 **Featured Projects**
+## **Featured Projects**
 
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 20px;">
  <div style="display: flex; align-items: center; text-align: center; max-width: 300px;">
@@ -45,7 +45,7 @@
 
 ---
 
-## 🌐 **Connect with Me**
+## **Connect with Me**
 
 <div align="center">
   <a href="https://linkedin.com/in/gagan-deep-singh-666158238">
@@ -61,12 +61,12 @@
 
 
 
-## 🖼️ **Fun Corner**
+## **Fun Corner**
 <img align="right" src="https://github.com/yourusername/yourusername/assets/your-gif.gif" width="150px" />
 
-- 🧩 Hobbies: Anime | Gaming | Reading tech blogs  
-- 🎮 Favorite Game: Genshin Impact  
-- 📖 Latest Read: *"Clean Code"* by Robert C. Martin  
+- Hobbies: Anime | Gaming | Reading tech blogs  
+- Favorite Game: Genshin Impact  
+- Latest Read: *"Clean Code"* by Robert C. Martin  
 
 ---
 
