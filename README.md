@@ -1,29 +1,37 @@
-<h3 align="left">&lt;Introduction/&gt;</h3>
+# `<Introduction/>`
 
-**Full Stack Developer & DevOps Enthusiast**  
-Continuously learning to refine both systems and myself.  
+🌱 **Studying backend systems and DevOps with hands-on curiosity.**
 
-🧩 Exploring how to make backend architecture **scalable**, **reliable**, and **meaningful**.  
-🛠️ Always curious about how small improvements can create lasting impact.  
+🚀 Keep learning. Keep improving.
 
+### How to make backend development more enjoyable?
 
-<h3 align="left">&lt;CoreContributions/&gt;</h3>
-
-| Project | Role | Description |
-|----------|------|-------------|
-| [Learn Space](#) | Personal Project | Interest-based community creation platform |
-| [FrameFinder](#) | Backend Engineer | Multivendor eyewear eCommerce platform |
-| [Suraksha Kawach](#) | Full Stack Engineer | Real-time SOS & safety application |
+- Automate repetitive tasks.
+- Hunting neat solutions to common backend headaches.
+- Making architecture resilient, stable, and built to last.
 
 
-<h3 align="left">&lt;FunCorner/&gt;</h3>
-
-💡 Currently focusing on **backend scaling** and **Kubernetes**.  
-🏐 Volleyball keeps me grounded beyond code.  
-🌌 Dreaming of building tools that are **stable, efficient, and flexible**.  
-
+🏃‍♂️ Finding joy in steady progress (and sometimes in logs).
 
 ---
 
-✨ *Curious to see more of my work?*  
-→ [**Visit my portfolio →**](https://gagan-nu.vercel.app/)
+# `<CoreContributions/>`
+
+| Project             | Role                | Description                                    |
+|---------------------|---------------------|------------------------------------------------|
+| [Learn Space](#)    | Creator             | Platform for interest-based communities        |
+| [FrameFinder](#)    | Backend Engineer    | Multivendor eyewear eCommerce backend          |
+| [Suraksha Kawach](#)| Full Stack Engineer | Real-time SOS & safety app                     |
+
+---
+
+# `<FunCorner/>`
+
+💡 Exploring backend scaling and Kubernetes  
+🏐 Volleyball for fresh air and fun  
+🌌 Dreaming of building tools that are **stable, efficient, and flexible**
+
+---
+
+✨ *Want to see more?*  
+→ [**Portfolio →**](https://gagan-nu.vercel.app/)
