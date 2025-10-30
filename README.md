@@ -1,4 +1,4 @@
-# `<Introduction/>`
+<pre> ``` <Introduction/> ``` </pre>
 
 🌱 **Studying backend systems and DevOps with hands-on curiosity.**
 
@@ -34,4 +34,4 @@
 ---
 
 ✨ *Want to see more?*  
-→ [**Portfolio →**](https://gagan-nu.vercel.app/)
+→ [**Visit my portfolio →**](https://gagan-nu.vercel.app/)
