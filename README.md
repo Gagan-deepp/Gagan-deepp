@@ -15,7 +15,7 @@
 
 ---
 
-### `<CoreContributions/>`
+### \<CoreContributions/>
 
 | Project             | Role                | Description                                    |
 |---------------------|---------------------|------------------------------------------------|
@@ -25,7 +25,7 @@
 
 ---
 
-### `<FunCorner/>`
+### \<FunCorner/>
 
 💡 Exploring backend scaling and Kubernetes  
 🏐 Volleyball for fresh air and fun  
