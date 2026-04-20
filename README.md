@@ -34,4 +34,4 @@
 ---
 
 ✨ *Want to see more?*  
-→ [**Visit my portfolio →**](https://gagan-nu.vercel.app/)
+→ [**Visit my portfolio →**](https://ayanoo.vercel.app)
